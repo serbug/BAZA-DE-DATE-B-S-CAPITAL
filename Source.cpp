@@ -1035,7 +1035,7 @@ void muzic()
 		MoveWindow(console, r.left, r.top, 500, 500, TRUE);
 		system("cls"); 
 
-		PlaySound(TEXT("music/test2.wav"), NULL, SND_LOOP | SND_ASYNC);
+		PlaySound(TEXT("music/muz8.wav"), NULL, SND_LOOP | SND_ASYNC);
 		
 	}
 	else if(o=='2')
